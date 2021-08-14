@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../usr/local/lib/node_modules/npm"
+		}
+	],
+	"settings": {}
+}
